@@ -1,0 +1,17 @@
+<log xmlns="http://www.xes-standard.org/" openxes.version="nested-attributes" xes.features="nested-attributes" xes.version="1.0">
+<trace>
+<string key="concept:name" value="2" />
+    <event>
+        <string key="concept:name" value="project management" />
+    </event>
+	<event>
+        <string key="concept:name" value="accouting" />
+    </event>
+	<event>
+        <string key="concept:name" value="credit card" />
+    </event>
+	<event>
+        <string key="concept:name" value="calendar" />
+    </event>
+</trace>
+</log>
